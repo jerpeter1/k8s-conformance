@@ -1,0 +1,10 @@
+vendor: Red Hat
+name: OpenShift Container Platform by Red Hat
+version: v4.14.0
+website_url: https://www.redhat.com/en/technologies/device-edge
+repo_url: https://github.com/openshift/microshift
+documentation_url: https://access.redhat.com/documentation/en-us/red_hat_build_of_microshift/
+product_logo_url: https://drive.google.com/file/d/1mSaQN2z08y1OymUBbqCMrVz7Q_OtQ9dl/view?usp=drive_link
+type: Distribution
+description: A component of Red Hat Device Edge used to provide lightweight Kubernetes container orchestration in field deployed devices at the far edge
+contact_email_address: microshift-devel@redhat.com
